@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MidApplication<mid>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "vdt.cloud.mid.MidApplication",
+            "projectName": "mid",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
