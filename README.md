@@ -57,7 +57,7 @@ Tự động chạy unit test khi push commit lên một branch
 - **Output log CI:**\
   ![Screenshot 2024-05-27 101908](https://github.com/ligmaDbolzz/HoangMinhTuan/assets/104216461/208c16a0-8b98-470d-9e47-27c1c9cae70b)\
   ![Screenshot 2024-05-27 100157](https://github.com/ligmaDbolzz/HoangMinhTuan/assets/104216461/f80696db-e930-4829-b388-6a7370d72839)\
-  ![Screenshot 2024-05-27 132823](https://github.com/ligmaDbolzz/HoangMinhTuan/assets/104216461/e3255e7a-dd1a-4e30-bfd5-452417b66902)\
+  ![Screenshot 2024-05-27 132823](https://github.com/ligmaDbolzz/HoangMinhTuan/assets/104216461/e3255e7a-dd1a-4e30-bfd5-452417b66902)
 
 
 
